@@ -7,6 +7,8 @@ import time
 host = "localhost"
 port = 8000
 
+# This is simply a testing file for git practice
+
 #########
 # Handle the response here 
 def block_request(self):
